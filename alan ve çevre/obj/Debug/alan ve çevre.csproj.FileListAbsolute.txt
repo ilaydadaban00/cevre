@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\bin\Debug\alan ve çevre.exe.config
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\bin\Debug\alan ve çevre.exe
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\bin\Debug\alan ve çevre.pdb
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan ve çevre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan ve çevre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan_ve_çevre.Form1.resources
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan_ve_çevre.Properties.Resources.resources
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan ve çevre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan ve çevre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan ve çevre.exe
+C:\Users\User\source\repos\alan ve çevre\alan ve çevre\obj\Debug\alan ve çevre.pdb
